@@ -2,7 +2,7 @@
 	{
 		"titulo": "Avengers: Endgame",
 		"genero": "Accion",
-		"idioma": "Español",
+		"idioma": "Spanish",
 		"duracion": "2.1",
 		"calificacion": "Excelente",
 		"resumen": "Final de la serie marvel",
@@ -14,7 +14,7 @@
 	{
 		"titulo": "Capitana Marvel",
 		"genero": "Accion",
-		"idioma": "Inglés",
+		"idioma": "English",
 		"duracion": "2.5",
 		"calificacion": "Buena",
 		"resumen": "Mujer que se convierte en heroe",
@@ -26,10 +26,10 @@
 	{
 		"titulo": "Spider-Man: de regreso a casa",
 		"genero": "Suspenso",
-		"idioma": "Español",
+		"idioma": "Spanish",
 		"duracion": "2.1",
 		"calificacion": "Regular",
-		"resumen": "Spiderman regresa a casa despues de 5 años",
+		"resumen": "Spiderman regresa a casa despues de 5 aÃ±os",
 		"anio_produccion": "2020",
 		"formato": "3D",
 		"director": "Jon Watts",
@@ -38,7 +38,7 @@
 	{
 		"titulo": "Thor",
 		"genero": "Ficcion",
-		"idioma": "Inglés",
+		"idioma": "English",
 		"duracion": "1.55",
 		"calificacion": "Excelente",
 		"resumen": "Dios medieval encargado en manejar los truenos",
@@ -50,7 +50,7 @@
 	{
 		"titulo": "Iron Man 2",
 		"genero": "Accion",
-		"idioma": "Español",
+		"idioma": "Spanish",
 		"duracion": "2.5",
 		"calificacion": "Buena",
 		"resumen": "Iroman crea un nuevo traje",
